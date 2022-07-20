@@ -1,4 +1,4 @@
-package com.Nimit;
+package Logika2k22;
 
 import java.util.Scanner;
 
