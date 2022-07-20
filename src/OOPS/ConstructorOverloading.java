@@ -1,4 +1,4 @@
-package com.company;
+package OOPS;
 class Student3{
     private int No;
     private String Name;

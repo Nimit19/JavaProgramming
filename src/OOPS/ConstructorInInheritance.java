@@ -1,3 +1,5 @@
+package OOPS;
+
 class Name1{
 
     public String name;

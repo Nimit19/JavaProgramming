@@ -1,4 +1,4 @@
-package com.company;
+package Intoduction;
 
 public class Output {
     public static void main(String[] args) {

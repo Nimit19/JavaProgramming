@@ -1,4 +1,4 @@
-package com.company;
+package Intoduction;
 
 public class PracticeSet_02_Q2 {
     public static void main(String[] args) {

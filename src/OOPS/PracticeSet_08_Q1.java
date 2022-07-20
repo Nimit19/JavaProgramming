@@ -1,4 +1,4 @@
-package com.company;
+package OOPS;
 
 class Employee{
     String Name ;

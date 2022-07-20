@@ -1,4 +1,4 @@
-package com.company;
+package OOPS;
 
 abstract class Base{
     abstract void display();

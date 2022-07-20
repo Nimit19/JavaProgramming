@@ -1,4 +1,4 @@
-package com.company;
+package Intoduction;
 import java.util.Scanner;
 
 public class Exercise_01 {

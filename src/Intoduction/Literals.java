@@ -1,4 +1,4 @@
-package com.company;
+package Intoduction;
 
 public class Literals {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package com.company;
+package OOPS;
 
 class T3 implements Runnable{
     int i = 0;

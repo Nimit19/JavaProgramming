@@ -1,4 +1,4 @@
-package com.company;
+package OOPS;
 
 class T1 extends Thread{
     int i = 0;

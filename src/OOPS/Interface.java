@@ -1,4 +1,4 @@
-package com.company;
+package OOPS;
 
 interface A{
     int a = 5;
