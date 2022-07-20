@@ -1,4 +1,4 @@
-package Practise;
+package ClgPractice;
 
 public class P3_SumOfDegits {
     public static void main(String[] args) {
