@@ -1,4 +1,4 @@
-package ClgPractice;
+package Practice;
 
 public class p2_amstrong {
     public static void main(String[] args) {

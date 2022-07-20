@@ -1,4 +1,4 @@
-package ClgPractice;
+package Practice;
 
 public class P5_BinaryToDecimal {
     public static void main(String[] args) {
