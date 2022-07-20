@@ -20,11 +20,13 @@ public class Array_01 {
         for (int i = 0; i < a.length; i++) {
             System.out.print(a[i] + " ");
         }
+        System.out.println();
 
         for (int j : a) {
             System.out.print(j + " ");
         }
 
+        System.out.println();
         System.out.println(Arrays.toString(a));
         System.out.println(Arrays.toString(b));
         System.out.println(Arrays.toString(c));
