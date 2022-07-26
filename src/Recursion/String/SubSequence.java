@@ -30,6 +30,7 @@ public class SubSequence {
         subSequence1(s1, s2.substring(1));
     }
 
+
     // 2]
     static ArrayList<String> subSequence2(String s1,String s2){
         if (s2.equals("")) {
