@@ -1,4 +1,4 @@
-package OOPS;
+package OOPS.Method;
 
 class Nimit{
     public int a;

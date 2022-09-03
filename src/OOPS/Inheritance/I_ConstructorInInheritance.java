@@ -1,4 +1,4 @@
-package OOPS;
+package OOPS.Inheritance;
 
 class Name1{
 
@@ -44,7 +44,7 @@ class Id extends Surname1{
     }
 
 }
-public class ConstructorInInheritance {
+public class I_ConstructorInInheritance {
     public static void main(String[] args) {
          System.out.print("\n");
 

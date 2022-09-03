@@ -1,17 +1,17 @@
-package OOPS;
-class Student3{
+package OOPS.Constructor;
+class Student2 {
     private int No;
     private String Name;
 
-    public Student3(){
+    public Student2(){
         No = 1;
         Name = "Nimit Patel";
     }
-    public Student3(String name){
+    public Student2(String name){
         No = 2;
         Name = name;
     }
-    public Student3(String name,int no){
+    public Student2(String name, int no){
         No = no;
         Name = name;
     }
@@ -32,9 +32,9 @@ class Student3{
 public class ConstructorOverloading {
     public static void main(String[] args) {
 
-        Student3 obj1 = new Student3();
-        Student3 obj2 = new Student3("Nik Patel");
-        Student3 obj3 = new Student3("Yug Patel",3);
+        Student2 obj1 = new Student2();
+        Student2 obj2 = new Student2("Nik Patel");
+        Student2 obj3 = new Student2("Yug Patel",3);
         System.out.print("\n");
 
         System.out.println("No : " + obj1.getNo());

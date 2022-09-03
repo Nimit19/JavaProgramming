@@ -1,4 +1,4 @@
-package OOPS;
+package OOPS.Method;
 
 class Aa{
     void Nik(){

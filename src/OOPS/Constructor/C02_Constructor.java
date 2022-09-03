@@ -1,12 +1,12 @@
-package OOPS;
+package OOPS.Constructor;
 
-class Student2{
+class Student {
     private int No;
     private String Name;
 
-    public Student2(){
+    public Student(){
         No = 1;
-        Name = "Methods_Examples";
+        Name = "Nimit Patel";
     }
 
     public void setName(String name) {
@@ -22,10 +22,10 @@ class Student2{
         return No;
     }
 }
-public class Constructor {
+public class C02_Constructor {
     public static void main(String[] args) {
 
-        Student2 obj = new Student2();
+        Student obj = new Student();
         System.out.println("No : " + obj.getNo());
         System.out.println("Name : " + obj.getName());
     }
