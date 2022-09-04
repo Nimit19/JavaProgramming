@@ -1,4 +1,4 @@
-package com.company;
+package Array;
 
 public class Arrays2 {
     public static void main(String[] args) {
