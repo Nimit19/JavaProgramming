@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.Question;
 
 public class Q3_ReverseNumber {
     public static void main(String[] args) {

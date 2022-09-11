@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.Question;
 
 public class Q5_CountZero{
     public static void main(String[] args) {

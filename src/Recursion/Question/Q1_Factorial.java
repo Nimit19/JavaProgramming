@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.Question;
 
 public class Q1_Factorial {
     public static void main(String[] args) {

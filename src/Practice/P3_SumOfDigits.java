@@ -1,6 +1,6 @@
 package Practice;
 
-public class P3_SumOfDegits {
+public class P3_SumOfDigits {
     public static void main(String[] args) {
 
         int a = 125;
