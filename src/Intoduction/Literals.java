@@ -2,10 +2,10 @@ package Intoduction;
 
 public class Literals {
     public static void main(String[] args){
-        byte age=18;
+        byte age =18;
         int i=5;
         short s=19;
-        long l1=9898236919L;
+        long l1=9104939358L;
         char ch='N';
 //      float f1=12.5; --> Error !
         float f2=12.5f;
@@ -14,7 +14,7 @@ public class Literals {
         double d2=8.5d;
         double d3=19.3D;
         boolean b1=true;
-        String s1= "Methods_Examples";
+        String s1= "Nimit";
         System.out.println(age);
         System.out.println(i);
         System.out.println(s);

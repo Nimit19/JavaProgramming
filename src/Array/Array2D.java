@@ -12,7 +12,7 @@ public class Array2D {
         };
 
 //        System.out.println(Arrays.toString(a[1]));
-//
+
 //        // 1]
 //        for (int row = 0; row < a.length; row++) {
 //            for (int col = 0; col < a[row].length; col++) {
@@ -21,10 +21,10 @@ public class Array2D {
 //            System.out.println();
 //        }
 
-        // 2]
-        for (int row = 0; row < a.length; row++) {
-            System.out.println(Arrays.toString(a[row]));
-        }
+//        // 2]
+//        for (int row = 0; row < a.length; row++) {
+//            System.out.println(Arrays.toString(a[row]));
+//        }
 
         // 3]
         for (int[] num : a) {

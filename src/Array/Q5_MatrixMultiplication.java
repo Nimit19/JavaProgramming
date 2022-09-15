@@ -25,6 +25,10 @@ public class Q5_MatrixMultiplication {
         int r2 = sc.nextInt();
         System.out.print("Enter Col: ");
         int c2 = sc.nextInt();
+        if(isNotPossibleMultiplication(c1,r2)){
+            System.out.println("\nMatrix Multiplication Not Possible....");
+            return;
+        }
         int[][] m2 = new int[r2][c2];
         for (int i = 0; i < r2; i++) {
             for (int j = 0; j < c2; j++) {
@@ -51,6 +55,10 @@ public class Q5_MatrixMultiplication {
         for (int i = 0; i < ans.length; i++) {
             System.out.println(Arrays.toString(ans[i]));
         }
+    }
+
+    static boolean isNotPossibleMultiplication(int c1, int r2) {
+        return c1 != r2;
     }
 
     static int[][] matrixMultiplication(int[][] m1, int[][] m2) {

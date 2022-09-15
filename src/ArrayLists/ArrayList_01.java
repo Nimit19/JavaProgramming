@@ -27,6 +27,5 @@ public class ArrayList_01 {
         System.out.println(l1.get(2));
         System.out.println(l1.get(3));
         System.out.println(l1.get(4));
-
     }
 }

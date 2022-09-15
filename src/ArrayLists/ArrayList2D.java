@@ -16,7 +16,7 @@ public class ArrayList2D {
         int val;
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
-                System.out.println("Enter the Value : ");
+                System.out.print("Enter the Value : ");
                 val = sc.nextInt();
                 l1.get(i).add(val);
             }

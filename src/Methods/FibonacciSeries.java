@@ -16,7 +16,7 @@ public class FibonacciSeries {
         if(n==1 || n==2){
             return n-1;
         }
-          else{
+        else{
             return fib(n-1)+fib(n-2);
         }
 
@@ -28,7 +28,7 @@ public class FibonacciSeries {
         int n = sc.nextInt();
 
         System.out.print("Fibonacci series : ");
-        for (int i=1 ;i<=n;i++){
+        for (int i=1; i<=n; i++){
             System.out.print(fib(i) + " ");
         }
 

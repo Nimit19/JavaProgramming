@@ -2,7 +2,7 @@ package Methods;
 
 public class Varargs_02 {
     public static void main(String[] args) {
-        name("Methods_Examples","jay","yug","shiv");
+        name("Nimit","jay","yug","shiv");
         name(1,2,3,4,5);
 //        name(); // -> give error Embiguty
     }
