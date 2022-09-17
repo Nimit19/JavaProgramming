@@ -7,5 +7,7 @@ public class Q6_NumberOfDigits {
 
         int ans = (int) (Math.log(n)/Math.log(base)) + 1;
         System.out.println(ans);
+
     }
 }
+
